@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Talk Dat NOLA]]></title>
-        <description><![CDATA[Talk Dat NOLA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The News You Want.  The News You Love.]]></title>
+        <description><![CDATA[The News You Want.  The News You Love.]]></description>
+        <link>https://thegrid.ai/talk-dat-nola/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 15:53:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 16:07:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/talk-dat-nola/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedf0c46a83-baa1-4b4f-9af2-4cee665dd748/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bcc6131-1a06-4d14-8b5d-a93f8f3fff61.png">]]></description>
+            <link>https://thegrid.ai/talk-dat-nola/f0c46a83-baa1-4b4f-9af2-4cee665dd748/index.html</link>
             <guid isPermaLink="false">f0c46a83-baa1-4b4f-9af2-4cee665dd748</guid>
-            <pubDate>Wed, 09 Mar 2016 15:53:08 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 16:06:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
