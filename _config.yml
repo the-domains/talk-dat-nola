@@ -1,0 +1,28 @@
+name: Talk Dat NOLA
+favicon: null
+layout_spectrum: 0.7670950558967888
+typography_spectrum: 0.0688067632727325
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.43064379366114736
+  lightness: 0.9859593196306378
+  saturation: 0.32329694158397615
+  rhythmicContrast: 0.7158765238709748
+purpose: []
